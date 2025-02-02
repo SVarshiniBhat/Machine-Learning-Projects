@@ -1,0 +1,2 @@
+Credit_Fraud/data/raw/creditcard.csv filter=lfs diff=lfs merge=lfs -text
+Credit_Fraud/data/processed/cleaned_credit_data.csv filter=lfs diff=lfs merge=lfs -text
