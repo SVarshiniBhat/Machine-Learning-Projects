@@ -29,5 +29,3 @@ This project aims to predict the survival of Titanic passengers based on key fea
 ## 📊 Results
 Achieved 95%+ accuracy in sales prediction with actionable business insights.
 
-## 🙏 Acknowledgment
-Thank you to CodSoft for this opportunity to apply machine learning to real-world data.
