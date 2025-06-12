@@ -20,10 +20,10 @@ This project focuses on detecting fraudulent credit card transactions using the 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SVarshiniBhat/CodSoft.git
+   git clone https://github.com/SVarshiniBhat/Machine-Learning-Projects.git
 2. Navigate to the project folder:
    ```bash
-   cd CodSoft/Credit_Fraud
+   cd Machine-Learning-Projects/Credit_Fraud
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -33,6 +33,3 @@ This project focuses on detecting fraudulent credit card transactions using the 
 
 ## 📊 Results
 Achieved 95%+ accuracy, effectively identifying fraudulent transactions.
-
-## 🙏 Acknowledgment
-Grateful to CodSoft for the opportunity to work on such an impactful project.
