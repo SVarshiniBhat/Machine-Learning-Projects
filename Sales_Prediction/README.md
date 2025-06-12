@@ -35,5 +35,3 @@ This project predicts sales based on advertising spend across TV, radio, and new
 ## 📊 Results
 Achieved 95%+ accuracy in sales prediction with actionable business insights.
 
-## 🙏 Acknowledgment
-Thank you to CodSoft for this incredible learning experience in applying data science to real-world business problems.
