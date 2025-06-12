@@ -6,6 +6,6 @@ Welcome to my repository showcasing the ML projects . Each project demonstrates 
 
 1. [🚢 Titanic Survival Prediction](./Titanic_prediction)    
 2. [📈 Sales Prediction Using Python](./Sales_Prediction)
-3. 2. [💳 Credit Card Fraud Detection](./Credit_Fraud)
+3. [💳 Credit Card Fraud Detection](./Credit_Fraud)
 
 These projects helped me enhance my skills in data analysis, machine learning, and business intelligence.
